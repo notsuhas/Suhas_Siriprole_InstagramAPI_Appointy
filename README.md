@@ -12,14 +12,16 @@ I never knew I could develop a basic API in a matter of 30 hours.
 Although I haven't achieved all the constraints, I did my best learning GoLang and MongoDB
 in the time I had. I had a great time working on this project. Once again, Thank you!
 
-Also Please do read complete README.md. Comments have been written where-ever
+Also, please do read the complete README.md. Comments have been written where-ever
 necessary in the main.go file for clarity.
 
 ```
 
 ###### This Task was Pushed on 9th Oct, 11:25pm and was made Private to prevent Plagiarism.
 
-###### This will be made Public, Post Midnight at 12:01am.
+###### ~~This repo will be made Public, Post Midnight at 12:01am.~~
+
+###### Repo Made Public at 12:02am.
 
 ## Task Checklist
 
@@ -115,7 +117,7 @@ Finally use Postman make GET or POST requests using the Port : 9000. <br/>
 
 `The Local DB Name is "Suhas_Siriprole_InstagramDB"`
 
-**Just a Word of Caution:** _There is an unexpected behaviour where doing GET or POST the first time, <br/> responds blank, If that happens, Please perform action again until you get response. <br/> I found no solution, or I might have did it wrong. But the Endpoints should work._
+**Just a Word of Caution:** _There is an unexpected behaviour where doing GET or POST the first few times, <br/> responds blank, If that happens, Please perform action again until you get response. <br/> I found no solution, or I might have did it wrong, or It was lack of Thread Safety. <br/> But the Endpoints should work._
 
 ### 1. Creating a User (POST)
 
